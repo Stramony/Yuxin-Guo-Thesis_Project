@@ -1,0 +1,13 @@
+﻿user_id,scenario,text_clarity,emotional_accuracy,scene_adaptability,tone,functional_acceptance
+1,work,5,5,4,4,4
+2,work,3,4,4,5,5
+3,friend,4,5,4,4,5
+4,friend,3,5,5,5,4
+5,work,2,4,4,3,4
+6,family,4,1,2,2,2
+7,family,3,4,5,4,5
+8,friend,4,4,2,4,4
+9,family,2,5,1,1,2
+10,work,3,4,3,3,4
+11,family,1,2,3,3,3
+12,friend,4,5,5,5,4
